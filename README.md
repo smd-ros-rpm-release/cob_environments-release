@@ -1,3 +1,26 @@
+## cob_environments (indigo) - 0.5.3-0
+
+The packages in the `cob_environments` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo cob_environments` on `Tue, 26 Aug 2014 10:51:02 -0000`
+
+These packages were released:
+- `cob_default_env_config`
+- `cob_environments`
+
+Version of package(s) in repository `cob_environments`:
+- upstream repository: https://github.com/ipa320/cob_environments.git
+- release repository: https://github.com/ipa320/cob_environments-release.git
+- rosdistro version: `0.5.2-0`
+- old version: `0.5.2-0`
+- new version: `0.5.3-0`
+
+Versions of tools used:
+- bloom version: `0.5.11`
+- catkin_pkg version: `0.2.4`
+- rosdep version: `0.10.30`
+- rosdistro version: `0.3.5`
+- vcstools version: `0.1.35`
+
+
 ## cob_environments (indigo) - 0.5.2-0
 
 The packages in the `cob_environments` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo cob_environments --edit` on `Mon, 25 Aug 2014 12:37:55 -0000`
