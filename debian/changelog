@@ -1,0 +1,36 @@
+ros-indigo-cob-environments (0.6.0-0saucy) saucy; urgency=high
+
+  * 0.5.3
+  * update changelog
+  * Contributors: Florian Weisshardt
+
+ -- Florian Weisshardt <fmw@ipa.fhg.de>  Tue, 16 Sep 2014 22:00:00 -0000
+
+ros-indigo-cob-environments (0.5.3-0saucy) saucy; urgency=high
+
+
+
+ -- Florian Weisshardt <fmw@ipa.fhg.de>  Mon, 25 Aug 2014 22:00:00 -0000
+
+ros-indigo-cob-environments (0.5.2-0saucy) saucy; urgency=high
+
+  * Update package.xml
+  * New maintainer
+  * Contributors: Florian Weisshardt, ipa-nhg
+
+ -- Florian Weisshardt <fmw@ipa.fhg.de>  Sun, 24 Aug 2014 22:00:00 -0000
+
+ros-indigo-cob-environments (0.5.1-0saucy) saucy; urgency=high
+
+  * moved gazebo simulation environments to cob_simulation to cleanup dependencies. Discussed with fmw
+  * metapackage for cob_environments
+  * metapackage for cob_environments
+  * add CMakeLists to cob_environments
+  * add CMakeLists to cob_environments
+  * Initial catkinization without rostest stuff
+  * Initial catkinization without rostest stuff
+  * Contributors: abubeck, ipa-fmw
+
+ -- Florian Weisshardt <fmw@ipa.fhg.de>  Wed, 19 Mar 2014 23:00:00 -0000
+
+
