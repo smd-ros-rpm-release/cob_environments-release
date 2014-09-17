@@ -1,0 +1,12 @@
+Source: ros-indigo-cob-default-env-config
+Section: misc
+Priority: extra
+Maintainer: Nadia Hammoudeh Garcia <nhg@ipa.fhg.de>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-roslaunch, ros-indigo-rostest
+Homepage: http://ros.org/wiki/cob_default_env_config
+Standards-Version: 3.9.2
+
+Package: ros-indigo-cob-default-env-config
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: This package contains configuration files for the default environments for Care-O-bot supported by IPA.
